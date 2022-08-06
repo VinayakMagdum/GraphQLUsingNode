@@ -1,0 +1,28 @@
+{
+  "name": "GraphQLUsingNode",
+  "version": "1.0.0",
+  "description": "Implementation of graphQL using node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinayakMagdum/GraphQLUsingNode.git"
+  },
+  "keywords": [],
+  "author": "Vinayak-Magadum <vmagadum@tracelink.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinayakMagdum/GraphQLUsingNode/issues"
+  },
+  "homepage": "https://github.com/VinayakMagdum/GraphQLUsingNode#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "sequelize": "^6.21.3"
+  }
+}
